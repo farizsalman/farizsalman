@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python  
+- **Languages:** Python , SQL
 - **Frameworks:** Streamlit  
 - **AI/ML:** Machine Learning, Deep Learning, Natural Language Processing (NLP)  
 - **Visualization:** Tableau  
